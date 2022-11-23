@@ -5,8 +5,6 @@
   min-height: 100vh;
   align-items: center;
   flex-direction: column;
-  position: fixed;
-  
 }
 .omnie-omnie {
   width: 100%;
@@ -20,16 +18,16 @@
   background-color: rgba(52, 51, 51, 1);
 }
 .omnie-text {
-  top: 100px;
-  left: 900px;
+  top: 274px;
+  left: 693px;
   color: rgb(255, 255, 255);
-  width: 260px;
+  width: 250px;
   height: auto;
-  position: relative;
+  position: fixed;
   font-size: 40px;
-  align-self: auto;
+  align-self: flex-end;
   font-style: SemiBold;
-  text-align: ;
+  text-align: left;
   font-family: Lato;
   font-weight: 600;
   line-height: normal;
@@ -43,14 +41,14 @@
   font-weight: 400;
 }
 .omnie-text03 {
-  top: 400px;
-  left: 806px;
-  color: rgb(255, 255, 255);
+  top: 574px;
+  left: 697px;
+  color: rgba(255, 255, 255, 1);
   width: 250px;
   height: auto;
   position: fixed;
   font-size: 40px;
-  align-self: auto;
+  align-self: flex-end;
   font-style: SemiBold;
   text-align: left;
   font-family: Lato;
@@ -62,14 +60,14 @@
   text-decoration: none;
 }
 .omnie-text05 {
-  top: 479px;
-  left: 806px;
+  top: 653px;
+  left: 697px;
   color: rgba(255, 255, 255, 1);
   width: 167px;
   height: auto;
   position: fixed;
   font-size: 20px;
-  align-self: auto;
+  align-self: flex-end;
   font-style: SemiBold;
   text-align: left;
   font-family: Lato;
@@ -81,14 +79,14 @@
   text-decoration: none;
 }
 .omnie-text07 {
-  top: 480px;
-  left: 996px;
+  top: 654px;
+  left: 887px;
   color: rgba(255, 255, 255, 1);
   width: 238px;
   height: auto;
   position: fixed;
   font-size: 19.5px;
-  align-self: auto;
+  align-self: flex-end;
   font-style: SemiBold;
   text-align: center;
   font-family: Lato;
@@ -99,24 +97,15 @@
   margin-bottom: 0;
   text-decoration: none;
 }
-.omnie-rectangle27 {
-  top: 107px;
-  left: 270px;
-  width: 485px;
-  height: 609px;
-  position: fixed;
-  border-color: transparent;
-  border-radius: 20px;
-}
 .omnie-text09 {
-  top: 179px;
-  left: 804px;
+  top: 353px;
+  left: 695px;
   color: rgba(255, 255, 255, 1);
   width: 600px;
   height: auto;
   position: fixed;
   font-size: 20px;
-  align-self: center;
+  align-self: flex-end;
   font-style: SemiBold;
   text-align: left;
   font-family: Lato;
@@ -132,6 +121,7 @@
   display: flex;
   padding: 17px 14px;
   position: fixed;
+  align-self: center;
   align-items: center;
   flex-shrink: 0;
   border-color: transparent;
@@ -203,31 +193,25 @@
     padding-bottom: 0px;
   }
   .omnie-text {
-    top: 96px;
-    left: 600px;
+    top: 234px;
+    left: 328px;
   }
   .omnie-text03 {
-    top: 448px;
-    left: 596px;
+    top: 586px;
+    left: 324px;
   }
   .omnie-text05 {
-    top: 527px;
-    left: 596px;
+    top: 665px;
+    left: 324px;
   }
   .omnie-text07 {
-    top: 530px;
-    left: 800px;
-    right: 75px;
-    position: fixed;
-  }
-  .omnie-rectangle27 {
-    top: 106px;
-    left: 37px;
-    height: 778px;
+    top: 668px;
+    left: 528px;
+    position: absolute;
   }
   .omnie-text09 {
-    top: 155px;
-    left: 588px;
+    top: 293px;
+    left: 316px;
     color: rgb(255, 255, 255);
     width: 500px;
     height: var(--dl-size-size-xxlarge);
@@ -246,7 +230,7 @@
     left: 26px;
     bottom: 0px;
     margin: 0px;
-    position: fixed;
+    position: absolute;
   }
 }
 @media(max-width: 991px) {
@@ -254,30 +238,24 @@
     height: 1013px;
   }
   .omnie-text {
-    top: 92px;
-    left: 600px;
+    top: 163px;
+    left: 399px;
   }
   .omnie-text03 {
-    top: 554px;
-    left: 596px;
+    top: 625px;
+    left: 395px;
   }
   .omnie-text05 {
-    top: 633px;
-    left: 600px;
+    top: 704px;
+    left: 399px;
   }
   .omnie-text07 {
-    top: 691px;
-    left: 600px;
-  }
-  .omnie-rectangle27 {
-    top: 99px;
-    left: 135px;
-    width: 417px;
-    height: 670px;
+    left: 399px;
+    bottom: 225px;
   }
   .omnie-text09 {
-    top: 151px;
-    right: 41px;
+    top: 222px;
+    left: 291px;
     width: 350px;
   }
   .omnie-top-bar-storonagowna {

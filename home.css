@@ -21,14 +21,13 @@
 }
 .home-prace {
   display: flex;
-  padding: 0 0 0px 0;
+  padding: 0 0 100px 0;
   position: relative;
+  margin-top: 366;
   align-items: center;
   border-color: transparent;
   flex-direction: column;
   justify-content: center;
-  margin-top: 366px;
-  
 }
 .home-navlink {
   display: contents;
