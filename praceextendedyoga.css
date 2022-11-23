@@ -1,0 +1,190 @@
+.praceextendedyoga-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.praceextendedyoga-prace-extended {
+  width: 100%;
+  height: 1080px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  background-color: rgba(52, 51, 51, 1);
+}
+.praceextendedyoga-frame5 {
+  top: 152px;
+  left: 0px;
+  right: 0px;
+  width: 1017px;
+  margin: auto;
+  display: flex;
+  position: fixed;
+  align-items: center;
+  border-color: transparent;
+}
+.praceextendedyoga-frame4 {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+}
+.praceextendedyoga-rectangle27 {
+  width: 567px;
+  height: 618px;
+  position: fixted;
+  border-color: transparent;
+  margin-right: 20px;
+  border-radius: 20px;
+}
+.praceextendedyoga-tekst {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+  flex-direction: column;
+}
+.praceextendedyoga-text {
+  color: rgba(255, 255, 255, 1);
+  width: 141px;
+  height: auto;
+  font-size: 15px;
+  align-self: auto;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Lato;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 7px;
+  text-decoration: none;
+}
+.praceextendedyoga-text05 {
+  color: rgba(255, 255, 255, 1);
+  width: 168px;
+  height: auto;
+  font-size: 50px;
+  align-self: auto;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Lato;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 7px;
+  text-decoration: none;
+}
+.praceextendedyoga-text10 {
+  color: rgba(255, 255, 255, 1);
+  width: 530px;
+  height: auto;
+  font-size: 25px;
+  align-self: auto;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Lato;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.praceextendedyoga-top-bar-storonagowna {
+  top: 0;
+  width: 100%;
+  height: 74px;
+  display: flex;
+  padding: 17px 14px;
+  position: fixed;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: transparent;
+  justify-content: flex-end;
+  background-color: rgba(52, 51, 51, 1);
+}
+.praceextendedyoga-navlink {
+  display: contents;
+}
+.praceextendedyoga-s-v-gmiko-w-h-y {
+  top: 20px;
+  left: 26px;
+  width: 182px;
+  height: 34px;
+  margin: 0px;
+  position: absolute;
+  align-self: center;
+  text-decoration: none;
+}
+.praceextendedyoga-frame1 {
+  display: flex;
+  z-index: 1;
+  position: relative;
+  align-items: stretch;
+  padding-top: 0 48px 0 0;
+  border-color: transparent;
+  padding-left: 0 48px 0 0;
+  padding-right: var(--dl-space-space-threeunits);
+  padding-bottom: 0 48px 0 0;
+  justify-content: center;
+}
+.praceextendedyoga-navlink1 {
+  display: contents;
+}
+.praceextendedyoga-strona-gwna {
+  width: 143px;
+  height: 16px;
+  z-index: 1;
+  position: relative;
+  align-self: center;
+  box-sizing: content-box;
+  margin-right: 30px;
+  text-decoration: none;
+}
+.praceextendedyoga-navlink2 {
+  display: contents;
+}
+.praceextendedyoga-omnie {
+  width: 77px;
+  height: 17px;
+  z-index: 2;
+  position: relative;
+  box-sizing: content-box;
+  text-decoration: none;
+}
+@media(max-width: 1200px) {
+  .praceextendedyoga-text10 {
+    width: 430px;
+  }
+  .praceextendedyoga-top-bar-storonagowna {
+    width: 100%;
+  }
+  .praceextendedyoga-s-v-gmiko-w-h-y {
+    top: 20px;
+    left: 26px;
+    bottom: 0px;
+    margin: 0px;
+    position: absolute;
+  }
+}
+@media(max-width: 991px) {
+  .praceextendedyoga-text10 {
+    width: 330px;
+  }
+  .praceextendedyoga-top-bar-storonagowna {
+    width: 100%;
+  }
+  .praceextendedyoga-s-v-gmiko-w-h-y {
+    top: 20px;
+    left: 26px;
+    bottom: 0px;
+    margin: 0px;
+  }
+}

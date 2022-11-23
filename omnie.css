@@ -21,15 +21,15 @@
 }
 .omnie-text {
   top: 100px;
-  left: 802px;
+  left: 900px;
   color: rgb(255, 255, 255);
-  width: 250px;
+  width: 260px;
   height: auto;
-  position: fixed;
+  position: relative;
   font-size: 40px;
   align-self: auto;
   font-style: SemiBold;
-  text-align: left;
+  text-align: ;
   font-family: Lato;
   font-weight: 600;
   line-height: normal;
@@ -45,7 +45,7 @@
 .omnie-text03 {
   top: 400px;
   left: 806px;
-  color: rgba(255, 255, 255, 1);
+  color: rgb(255, 255, 255);
   width: 250px;
   height: auto;
   position: fixed;
