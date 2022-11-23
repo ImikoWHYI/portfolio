@@ -20,6 +20,7 @@
   background-color: rgba(52, 51, 51, 1);
 }
 .home-prace {
+  margin-top: 183
   display: flex;
   padding: 0 0 100px 0;
   position: relative;
