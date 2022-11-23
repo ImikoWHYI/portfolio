@@ -20,14 +20,14 @@
   background-color: rgba(52, 51, 51, 1);
 }
 .home-prace {
-  margin-top: 183
-  padding: 0 0 100px 0;
+ display: flex;
+  padding: 0 0 0px 0;
   position: relative;
-  margin-top: 183;
   align-items: center;
   border-color: transparent;
   flex-direction: column;
   justify-content: center;
+  margin-top: 183px;
 }
 .home-navlink {
   display: contents;
