@@ -20,9 +20,10 @@
   background-color: rgba(52, 51, 51, 1);
 }
 .home-prace {
- display: flex;
-  padding: 0 0 0px 0;
+  display: flex;
+  padding: 0 0 100px 0;
   position: relative;
+  margin-top: 366;
   align-items: center;
   border-color: transparent;
   flex-direction: column;
@@ -136,7 +137,7 @@
   border-color: transparent;
   border-radius: 10px;
 }
-.worktrips {
+.home-worktrips {
   width: 892px;
   height: 863px;
   display: flex;
@@ -156,7 +157,7 @@
   justify-content: flex-start;
   background-color: transparent;
 }
-.i-m-a-g-e2671567459752079531226636611232489313687025n1 {
+.home-i-m-a-g-e2671567459752079531226636611232489313687025n1 {
   top: 375.7571716308594px;
   left: 0px;
   width: 892px;
@@ -165,7 +166,7 @@
   border-color: transparent;
   border-radius: 10px;
 }
-.i-m-a-g-e2719392446236640589657224614045408236355000n1 {
+.home-i-m-a-g-e2719392446236640589657224614045408236355000n1 {
   top: 0px;
   left: 0px;
   width: 892px;
@@ -174,7 +175,7 @@
   border-color: transparent;
   border-radius: 10px;
 }
-.komunikacjawizalna {
+.home-komunikacjawizalna {
   width: 892px;
   height: 578.259765625px;
   display: flex;
@@ -194,7 +195,7 @@
   justify-content: flex-start;
   background-color: transparent;
 }
-.ulotka1 {
+.home-ulotka1 {
   top: 0px;
   left: 0px;
   width: 431px;
@@ -203,7 +204,7 @@
   border-color: transparent;
   border-radius: 10px;
 }
-.plakatb21 {
+.home-plakatb21 {
   top: 0.2293701171875px;
   left: 461px;
   width: 431px;
@@ -212,7 +213,7 @@
   border-color: transparent;
   border-radius: 10px;
 }
-.font {
+.home-font {
   width: 892px;
   height: 619.3388671875px;
   display: flex;
@@ -232,7 +233,7 @@
   justify-content: flex-start;
   background-color: transparent;
 }
-.font1 {
+.home-font1 {
   top: 301.3388671875px;
   left: 0px;
   width: 431px;
@@ -241,7 +242,7 @@
   border-color: transparent;
   border-radius: 10px;
 }
-.radka-mikoaj-gr1 {
+.home-radka-mikoaj-gr1 {
   top: 0.34077736735343933px;
   left: 0px;
   width: 431px;
@@ -250,7 +251,7 @@
   border-color: transparent;
   border-radius: 10px;
 }
-.fontgrfika1 {
+.home-fontgrfika1 {
   top: 0px;
   left: 463.5986328125px;
   width: 428px;
@@ -259,7 +260,7 @@
   border-color: transparent;
   border-radius: 10px;
 }
-.katalog {
+.home-katalog {
   width: 892px;
   height: 500.14801025390625px;
   display: flex;
@@ -279,7 +280,7 @@
   justify-content: flex-start;
   background-color: transparent;
 }
-.image1 {
+.home-image1 {
   top: 0px;
   left: 338.82177734375px;
   width: 553px;
@@ -288,7 +289,7 @@
   border-color: transparent;
   border-radius: 10px;
 }
-.image2 {
+.home-image2 {
   top: 0px;
   left: 0px;
   width: 316px;
@@ -297,7 +298,7 @@
   border-color: transparent;
   border-radius: 10px;
 }
-.fotomonta {
+.home-fotomonta {
   width: 892px;
   height: 1508.17236328125px;
   display: flex;
@@ -317,7 +318,7 @@
   justify-content: flex-start;
   background-color: transparent;
 }
-.i-m-a-g-e11 {
+.home-i-m-a-g-e11 {
   top: 0.1484375px;
   left: 0px;
   width: 442px;
@@ -326,7 +327,7 @@
   border-color: transparent;
   border-radius: 10px;
 }
-.i-m-a-g-e271939245 {
+.home-i-m-a-g-e271939245 {
   top: 0px;
   left: 472.657470703125px;
   width: 419px;
@@ -335,7 +336,7 @@
   border-color: transparent;
   border-radius: 10px;
 }
-.i-m-a-g-e31 {
+.home-i-m-a-g-e31 {
   top: 290.530029296875px;
   left: 0px;
   width: 442px;
@@ -344,7 +345,7 @@
   border-color: transparent;
   border-radius: 10px;
 }
-.i-m-a-g-e41 {
+.home-i-m-a-g-e41 {
   top: 291px;
   left: 472.657470703125px;
   width: 419px;
@@ -353,7 +354,7 @@
   border-color: transparent;
   border-radius: 10px;
 }
-.i-m-a-g-e53 {
+.home-i-m-a-g-e53 {
   top: 596.30029296875px;
   left: 0px;
   width: 442px;
@@ -362,7 +363,7 @@
   border-color: transparent;
   border-radius: 10px;
 }
-.i-m-a-g-e71 {
+.home-i-m-a-g-e71 {
   top: 596px;
   left: 472.657470703125px;
   width: 419px;
@@ -371,7 +372,7 @@
   border-color: transparent;
   border-radius: 10px;
 }
-.i-m-a-g-e81 {
+.home-i-m-a-g-e81 {
   top: 888px;
   left: 472.657470703125px;
   width: 419px;
@@ -380,7 +381,7 @@
   border-color: transparent;
   border-radius: 10px;
 }
-.i-m-a-g-e61 {
+.home-i-m-a-g-e61 {
   top: 1216.55712890625px;
   left: 0px;
   width: 442px;
@@ -389,7 +390,7 @@
   border-color: transparent;
   border-radius: 10px 10px 0 0;
 }
-.i-m-a-g-e91 {
+.home-i-m-a-g-e91 {
   top: 1217px;
   left: 472.657470703125px;
   width: 419px;
@@ -398,7 +399,7 @@
   border-color: transparent;
   border-radius: 10px 10px 0 0;
 }
-.ryskunki {
+.home-ryskunki {
   width: 892px;
   height: 947.67919921875px;
   display: flex;
@@ -418,7 +419,7 @@
   justify-content: flex-start;
   background-color: transparent;
 }
-.lovoe1 {
+.home-lovoe1 {
   top: 0.67919921875px;
   right: 0px;
   width: 431px;
@@ -428,7 +429,7 @@
   border-color: transparent;
   border-radius: 10px;
 }
-.i-m-a-g-e1551 {
+.home-i-m-a-g-e1551 {
   top: 366.67919921875px;
   left: 460px;
   width: 432px;
@@ -437,7 +438,7 @@
   border-color: transparent;
   border-radius: 10px 10px 0 0;
 }
-.i-m-a-g-e2311 {
+.home-i-m-a-g-e2311 {
   top: 0px;
   left: 0px;
   width: 431px;
@@ -446,7 +447,7 @@
   border-color: transparent;
   border-radius: 10px;
 }
-.loukanikos1 {
+.home-loukanikos1 {
   top: 366.67919921875px;
   left: 0px;
   width: 431px;
@@ -455,7 +456,7 @@
   border-color: transparent;
   border-radius: 10px 10px 0 0;
 }
-.top-bar-storonagowna {
+.home-top-bar-storonagowna {
   top: 0;
   top;: 0;
   width: 100%;
@@ -469,10 +470,10 @@
   justify-content: flex-end;
   background-color: rgba(52, 51, 51, 1);
 }
-.navlink1 {
+.home-navlink1 {
   display: contents;
 }
-.s-v-gmiko-w-h-y {
+.home-s-v-gmiko-w-h-y {
   top: 20px;
   left: 26px;
   width: 182px;
@@ -480,7 +481,7 @@
   position: absolute;
   text-decoration: none;
 }
-.frame1 {
+.home-frame1 {
   display: flex;
   z-index: 1;
   position: relative;
@@ -492,7 +493,7 @@
   padding-bottom: 0 48px 0 0;
   justify-content: center;
 }
-.stronagowna {
+.home-stronagowna {
   flex: 1;
   right: 160px;
   width: 130px;
@@ -503,10 +504,10 @@
   border-color: transparent;
   border-radius: 10px;
 }
-.navlink2 {
+.home-navlink2 {
   display: contents;
 }
-.strona-gwna1 {
+.home-strona-gwna1 {
   width: 143px;
   height: 16px;
   z-index: 1;
@@ -516,10 +517,10 @@
   margin-right: 30px;
   text-decoration: none;
 }
-.navlink3 {
+.home-navlink3 {
   display: contents;
 }
-.omnie {
+.home-omnie {
   width: 77px;
   height: 17px;
   z-index: 2;
@@ -528,10 +529,10 @@
   text-decoration: none;
 }
 @media(max-width: 1200px) {
-  .top-bar-storonagowna {
+  .home-top-bar-storonagowna {
     width: 100%;
   }
-  .s-v-gmiko-w-h-y {
+  .home-s-v-gmiko-w-h-y {
     top: 20px;
     left: 26px;
     bottom: 0px;
@@ -540,7 +541,7 @@
   }
 }
 @media(max-width: 991px) {
-  .top-bar-storonagowna {
+  .home-top-bar-storonagowna {
     width: 100%;
   }
 }

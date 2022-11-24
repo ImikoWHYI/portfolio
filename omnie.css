@@ -41,7 +41,7 @@
   font-weight: 400;
 }
 .omnie-text03 {
-  top: 700px;
+  top: 600px;
   left: 697px;
   color: rgba(255, 255, 255, 1);
   width: 250px;
@@ -60,13 +60,13 @@
   text-decoration: none;
 }
 .omnie-text05 {
-  top: 753px;
+  top: 653px;
   left: 697px;
   color: rgba(255, 255, 255, 1);
   width: 167px;
   height: auto;
   position: fixed;
-  font-size: 14px;
+  font-size: 20px;
   align-self: flex-end;
   font-style: SemiBold;
   text-align: left;
@@ -79,7 +79,7 @@
   text-decoration: none;
 }
 .omnie-text07 {
-  top: 754px;
+  top: 654px;
   left: 887px;
   color: rgba(255, 255, 255, 1);
   width: 238px;
